@@ -1,1 +1,1 @@
-# lemonade-sentiment-analysis
+# Sentiment Analysis of Beyonce's 'LEMONADE'
